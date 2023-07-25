@@ -6,7 +6,8 @@ It is a simple Decentralized Chai Application that can store transactions, amoun
 - Solidity Smart Contract
 - React.js for the frontend
 - Web3.js for interacting with the blockchain
-##Website Link
+  
+## Website Link
 - https://kdcoder-chaidapp.netlify.app/
 
 

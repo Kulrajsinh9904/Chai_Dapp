@@ -59,7 +59,7 @@ function App() {
     <div className="container">
   {/* connected account : {account}*/}
      <Buy state={state}></Buy>
-     {/*<Memos state={state}></Memos>*/}   
+     <Memos state={state}></Memos> 
     </div>
   </div>
   )

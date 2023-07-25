@@ -50,14 +50,14 @@ function App() {
   },[])
 
   return (
-  <div style={{backgroundColor: "EFEFEF", height: "100% "}}>
+    <div style={{backgroundColor: "EFEFEF", height: "100% "}}>
     <img src={chai} className="img-fluid" alt=".." width="100%" />
     <p style={{ marginTop: "10px", marginLeft: "5px" }}>
       <small>Connected Account - {account}</small>
     </p>
     
-    <div className="App">
-    connected account : {account}
+    <div className="container">
+  {/* connected account : {account}*/}
      <Buy state={state}></Buy>
      {/*<Memos state={state}></Memos>*/}   
     </div>

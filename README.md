@@ -1,13 +1,12 @@
-# Sample Hardhat Project
+# Decentralized Chai Application
+It is a simple Decentralized Chai Application that can store transactions, amounts and messages.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Technologies Used
+- Ethereum Blockchain
+- Solidity Smart Contract
+- React.js for the frontend
+- Web3.js for interacting with the blockchain
+##Website Link
+- https://kdcoder-chaidapp.netlify.app/
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
